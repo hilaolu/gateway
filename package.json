@@ -1,0 +1,15 @@
+{
+  "name": "gateway",
+  "version": "0.0.1",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
